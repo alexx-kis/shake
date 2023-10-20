@@ -22,3 +22,10 @@ function shakeEventDidOccur() {
 
 
 }
+
+
+window.addEventListener("devicemotion", handleMotionEvent, true);
+
+function handleMotionEvent() {
+	square.classList.add('square--active');
+}
