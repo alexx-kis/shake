@@ -140,6 +140,7 @@ html {
   background: #ff00ff;
   width: 100px;
   height: 100px;
+  background: #ff0;
 }
 .square--active {
   background: #ff0;
