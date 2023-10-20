@@ -116,6 +116,7 @@ html {
   border-radius: 25px;
   border: 2px solid #ff8000;
   height: 100dvh;
+  padding: 10px;
 }
 
 .block {
